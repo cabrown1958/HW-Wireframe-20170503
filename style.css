@@ -16,3 +16,43 @@ header {
 	color: #777;
 	background: #ccc;
 }
+
+section {
+}
+
+#left {
+	float: left
+	margin: 20px 0px 20px 0px;
+	background-color: #333;
+	height: 50px;
+	width: 30%;
+}
+
+#middle {
+	float: left
+	margin: 20px 0px 20px 0px;
+	background-color: #333;
+	height: 50px;
+	width: 30%;
+}
+
+#right {
+	float: right
+	margin: 20px 0px 20px 0px;
+	background-color: #333;
+	height: 50px;
+	width: 30%;
+}
+
+#full {
+}
+
+#division {
+}
+
+aside {
+}
+
+footer {
+}
+
